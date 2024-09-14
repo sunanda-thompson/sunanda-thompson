@@ -14,7 +14,8 @@
 - 📫 How to reach me **sunanda.thompson@gmail.com**
 
 - ⚡ Fun fact **I love a good fantasy book and c and k dramas.**
-  
+
+- 📄 Scroll down for a look at my **resume.**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
