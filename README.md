@@ -38,7 +38,7 @@
 <br>
 
 # Sunanda Thompson  
-**Spring Lake, NC** | 336-402-6367 | sunanda.thompson@gmail.com
+**Spring Lake, NC** | sunanda.thompson@gmail.com
 
 ## PROFESSIONAL SUMMARY
 Versatile IT professional with 3+ years of experience in customer service, technical support, database management, and cybersecurity. Adept at troubleshooting and resolving complex technical issues while collaborating effectively with end-users. Ready to contribute to your organization.
