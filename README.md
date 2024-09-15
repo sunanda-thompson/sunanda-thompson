@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I love a good fantasy book and c and k dramas.**
 
+- 🏆 Certifications I hope to attain: **EPIC, CISSP, AWS Cloud Practitioner, Linux+**
+
 - 📄 Scroll down for a look at my **resume.**  
 
 <h3 align="left">Connect with me:</h3>
