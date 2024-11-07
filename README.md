@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sunanda Thompson</h1>
-<h3 align="center">Leveraging my Computer Science and Cybersecurity background to contribute to HealthTech and EHR systems.</h3>
+<h3 align="center">Leveraging my Computer Science and Cybersecurity background to contribute to an ever-evolving tech landscape.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunanda-thompson&label=Profile%20views&color=0e75b6&style=flat" alt="sunanda-thompson" /> </p>
 
-- 🔭 I’m currently working on my **Security+ certification.**
+- 🔭 I’m currently working on my **career path.**
 
-- 🌱 I’m learning about **Cloud Computing (AWS, Azure), DevOps (Kubernetes, CI/CD pipelines), AI, Security**
+- 🌱 I’m learning about **Cloud Computing (AWS, Azure), DevOps (Kubernetes, CI/CD pipelines), AI, and CyberSecurity**
 
 - જ⁀➴ Go on this learning adventure with me as I build upon my skills.
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I love a good fantasy book and c and k dramas.**
 
-- 🏆 Certifications I hope to attain: **EPIC, CISSP, AWS Cloud Practitioner, Linux+**
+- 🏆 Certifications I hope to attain: **EPIC, CISSP, AWS Cloud Practitioner, Linux+, Cloud+**
 
 - 📄 Scroll down for a look at my **resume.**  
 
@@ -50,7 +50,7 @@
 **Spring Lake, NC** | sunanda.thompson@gmail.com
 
 ## PROFESSIONAL SUMMARY
-Versatile IT professional with 3+ years of experience in customer service, technical support, database management, and cybersecurity. Adept at troubleshooting and resolving complex technical issues while collaborating effectively with end-users. Ready to contribute to your organization.
+Versatile IT professional with 3+ years of experience in customer service and technical support, paired with a strong background in cybersecurity. Skilled in troubleshooting, system optimization, and application development, with hands-on experience in securing networks and systems. Adept at resolving complex technical issues and collaborating effectively with stakeholders to ensure efficient solutions. Ready to contribute to an organization's IT infrastructure, leveraging a broad range of skills.
 
 ---
 
@@ -60,7 +60,7 @@ Versatile IT professional with 3+ years of experience in customer service, techn
 - **Scripting & Automation:** PowerShell, Bash, Batch
 - **Operating Systems:** Windows XP, Vista, 7, 8, 10, 11; macOS; Linux (Ubuntu, Kali Linux)
 - **Networking & Security:** Active Directory, Windows Firewall, Wireshark, Sophos Antivirus, VPN (Cisco AnyConnect, OpenVPN)
-- **Security Tools & Vulnerability Scanning:** Burp Suite, OpenVAS, Nessus, Nmap, Metasploit
+- **Security/Forensic Tools & Vulnerability Scanning:** Burp Suite, OpenVAS, Nessus, Nmap, Metasploit, theHarvester, FTK, FTK Imager, Autopsy
 - **Technical Proficiencies:** ServiceNow, Citrix, Microsoft Teams, Slack, Zoom, Microsoft Office Suite; Hardware (Apple, Dell, printers, scanners, routers, switches)
 - **Regulatory Frameworks:** PCI-DSS, NIST, ISO
 
@@ -116,10 +116,7 @@ Versatile IT professional with 3+ years of experience in customer service, techn
 - **Oracle SQL and PL/SQL + Python Developer + Java Programmer Certificate**  
   *Arizona Western College Continuing Education, Yuma, AZ*  
   *10/2022 – 10/2023*
-
-- **CompTIA Security+ (In Progress)**  
-  *Expected Completion: 12/2024*
-
+  
 ---
 
 ## EDUCATION
