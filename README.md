@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunanda-thompson&label=Profile%20views&color=0e75b6&style=flat" alt="sunanda-thompson" /> </p>
 
-- 🔭 I’m currently working on my **career path.**
+- 🔭 I’m currently working on my **skillsets** through certifications and side projects.
 
-- 🌱 I’m learning about **Cloud Computing (AWS, Azure), DevOps (Kubernetes, CI/CD pipelines), AI, and CyberSecurity**
+- 🌱 I’m learning about **Cloud Computing (AWS, Azure), AI, CyberSecurity, and Data Analysis.**
 
-- જ⁀➴ Go on this learning adventure with me as I build upon my skills.
+- જ⁀➴ I've just completed **Certified in Cybersecurity (CC) by ISC2.**
 
 - 💬 Conversation starters: **AI security and implications, Healthcare Technology**
 
 - 📫 How to reach me **sunanda.thompson@gmail.com**
 
-- ⚡ Fun fact **I love a good fantasy book and c and k dramas.**
+- ⚡ Fun fact **I love a good fantasy book, C and K dramas.**
 
-- 🏆 Certifications I hope to attain: **EPIC, CISSP, AWS Cloud Practitioner, Linux+, Cloud+**
+- 🏆 Certifications I hope to attain: **EPIC, CISSP, AWS Cloud Practitioner, Linux+, Cloud+, Security+**
 
 - 📄 Scroll down for a look at my **resume.**  
 
