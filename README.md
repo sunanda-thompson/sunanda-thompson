@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sunanda.thompson@gmail.com**
 
-- ⚡ Fun fact **I love a good fantasy romance book, Chinese and Korean dramas.**
+- ⚡ Fun fact: **I love a good fantasy romance book, Chinese and Korean dramas.**
 
 - 🏆 Motto: **Make every day count!**
 
@@ -82,7 +82,7 @@ Versatile IT professional with experience in customer service and technical supp
 
 
 ### E-Commerce IT Support  
-**Ticfen Group LLC, Remote**  
+**Ticfen Group LLC, Remote**
 *05/2021 – 05/2023*  
 
 - Customized and optimized product listings across multiple platforms (Amazon, eBay, Shopify, Mercari), increasing sales and customer engagement.
