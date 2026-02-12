@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sunanda Thompson</h1>
-<h3 align="center">Leveraging my Computer Science and Cybersecurity background to contribute to an ever-evolving tech landscape.</h3>
+<h3 align="center">Leveraging my educational background and work experiences to become an Identity and Access Management (IAM) Analyst.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunanda-thompson&label=Profile%20views&color=0e75b6&style=flat" alt="sunanda-thompson" /> </p>
 
-- 🔭 I’m currently working on my **skillsets** through certifications and side projects.
+- 🔭 I’m currently working on becoming an **IAM Analyst**. 
 
-- 🌱 I’m learning about **Cloud Computing (AWS, Azure), AI, CyberSecurity, and Data Analysis.**
+- 🌱 I’m excited to go on this journey.
 
 - જ⁀➴ I've just completed **Certified in Cybersecurity (CC) by ISC2.**
 
-- 💬 Conversation starters: **AI security and implications, Healthcare Technology**
+- 💬 Conversation starters: **AI security and implications, Access Management, Healthcare Technology**
 
 - 📫 How to reach me **sunanda.thompson@gmail.com**
 
-- ⚡ Fun fact **I love a good fantasy book, C and K dramas.**
+- ⚡ Fun fact **I love a good fantasy romance book, Chinese and Korean dramas.**
 
-- 🏆 Certifications I hope to attain: **EPIC, CISSP, AWS Cloud Practitioner, Linux+, Cloud+, Security+**
+- 🏆 Motto: **Make every day count!**
 
 - 📄 Scroll down for a look at my **resume.**  
 
@@ -47,10 +47,10 @@
 <br>
 
 # Sunanda Thompson  
-**Spring Lake, NC** | sunanda.thompson@gmail.com
+**Texas** | sunanda.thompson@gmail.com
 
 ## PROFESSIONAL SUMMARY
-Versatile IT professional with 3+ years of experience in customer service and technical support, paired with a strong background in cybersecurity. Skilled in troubleshooting, system optimization, and application development, with hands-on experience in securing networks and systems. Adept at resolving complex technical issues and collaborating effectively with stakeholders to ensure efficient solutions. Ready to contribute to an organization's IT infrastructure, leveraging a broad range of skills.
+Versatile IT professional with experience in customer service and technical support, paired with a strong background in cybersecurity. Skilled in troubleshooting, system optimization, and application development, with hands-on experience in securing networks and systems. Adept at resolving complex technical issues and collaborating effectively with stakeholders to ensure efficient solutions. Ready to contribute to an organization's IT infrastructure, leveraging a broad range of skills.
 
 ---
 
@@ -59,18 +59,31 @@ Versatile IT professional with 3+ years of experience in customer service and te
 - **Languages & Databases:** C, Java, Python, JavaScript, HTML, CSS, Oracle SQL, PL/SQL, MySQL, PostgreSQL
 - **Scripting & Automation:** PowerShell, Bash, Batch
 - **Operating Systems:** Windows XP, Vista, 7, 8, 10, 11; macOS; Linux (Ubuntu, Kali Linux)
-- **Networking & Security:** Active Directory, Windows Firewall, Wireshark, Sophos Antivirus, VPN (Cisco AnyConnect, OpenVPN)
+- **Networking & Security:** Windows Firewall, Wireshark, Sophos Antivirus, VPN (Cisco AnyConnect, OpenVPN)
 - **Security/Forensic Tools & Vulnerability Scanning:** Burp Suite, OpenVAS, Nessus, Nmap, Metasploit, theHarvester, FTK, FTK Imager, Autopsy
 - **Technical Proficiencies:** ServiceNow, Citrix, Microsoft Teams, Slack, Zoom, Microsoft Office Suite; Hardware (Apple, Dell, printers, scanners, routers, switches)
+- **Directory & Identity Management:** Active Directory, Group Policy Management, Identity Access Management (IAM), RBAC
 - **Regulatory Frameworks:** PCI-DSS, NIST, ISO
 
 ---
 
 ## WORK EXPERIENCE
 
-### Independent E-Commerce Consultant/IT Support  
-**Ticfen Group LLC, Spring Lake, NC**  
-*05/2021 – Present*  
+### Web Development Support
+**Syychronic Sound LLC, Remote**
+*06/2023 – 06/2025*
+
+-	Partnered with the business owner to plan, build, and maintain a WordPress site for a sound services business.
+-	Designed, deployed, and maintained WordPress website, managing all technical infrastructure and customer-facing digital presence
+-	Configured DNS records, SSL certificates, and hosting infrastructure through GoDaddy to ensure secure site access, email delivery, and 99.5% uptime
+-	Implemented WordPress themes, plugins, and security updates while maintaining site stability and protecting against vulnerabilities
+-	Developed service pages, contact forms, and navigation structures to support lead generation and streamline customer communication
+-	Provided ongoing technical support and documentation to enable business owner to manage routine content updates independently
+
+
+### E-Commerce IT Support  
+**Ticfen Group LLC, Remote**  
+*05/2021 – 05/2023*  
 
 - Customized and optimized product listings across multiple platforms (Amazon, eBay, Shopify, Mercari), increasing sales and customer engagement.
 - Integrated third-party tools and plugins to enhance the functionality and user experience of the online stores.
@@ -112,13 +125,6 @@ Versatile IT professional with 3+ years of experience in customer service and te
 
 ---
 
-## CERTIFICATIONS
-- **Oracle SQL and PL/SQL + Python Developer + Java Programmer Certificate**  
-  *Arizona Western College Continuing Education, Yuma, AZ*  
-  *10/2022 – 10/2023*
-  
----
-
 ## EDUCATION
 - **Master of Science in Information Security and Digital Forensics**  
   *Niagara University, Niagara Falls, NY*  
@@ -129,4 +135,16 @@ Versatile IT professional with 3+ years of experience in customer service and te
   *Huntington University, Huntington, IN*  
   *08/2015 – 05/2019*  
   Minors: Criminal Justice & Cybersecurity
+  
+---
+
+## CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+-	**Certified in Cybersecurity (CC)** – ISC², 09/2025
+-	**Professional Certificate for Business and Data Analysis Skills** – EdX, 10/2025
+-	**Alex the Analyst Data Analytics Bootcamp** – SQL, Excel, Tableau, Python, Power BI, 11/2025
+-	**Applied Scrum for Agile Project Management** – EdX, 11/2025
+-	**Oracle SQL & PL/SQL Developer Certificate** – Arizona Western College, 10/2023
+
+  
+
 
