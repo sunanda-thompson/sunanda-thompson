@@ -100,7 +100,7 @@ My projects are organized around four IT career paths. Click any to explore:
 ## 📂 Featured Projects
 
 ### 🗄️ Database
-**[ShopVerse SQL Portfolio]([https://sunanda-thompson.github.io/database-portfolio/database-portfolio.html])**
+**[ShopVerse SQL Portfolio] (https://sunanda-thompson.github.io/database-portfolio/database-portfolio.html)**
 > A full e-commerce database built from scratch with ERD, sample data, and 20+ queries written in MySQL, PostgreSQL, Oracle PL/SQL, and MongoDB. Covers JOINs, CTEs, window functions, stored procedures, triggers, packages, JSONB, and full-text search.
 
 ---
