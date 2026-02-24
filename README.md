@@ -20,7 +20,7 @@
 
 I'm a versatile IT professional with a Master's in **Information Security & Digital Forensics** and hands-on experience across cybersecurity, technical support, web development, and database systems. I'm building my GitHub as a portfolio of real, practical projects spanning the IT areas I work in and care about most.
 
-- 🔐 Working toward becoming an **Identity & Access Management (IAM) Analyst**
+- 🔐 Working towards building and leveling up my **IT Skills**
 - 🗄️ Building projects in **SQL, databases, and data analytics**
 - 🛡️ ISC² **Certified in Cybersecurity (CC)** — 2025
 - 📍 Based in **Texas**
@@ -100,7 +100,7 @@ My projects are organized around four IT career paths. Click any to explore:
 ## 📂 Featured Projects
 
 ### 🗄️ Database
-**[ShopVerse SQL Portfolio](https://sunanda-thompson.github.io/database-portfolio/)**
+**[ShopVerse SQL Portfolio]([https://sunanda-thompson.github.io/database-portfolio/database-portfolio.html])**
 > A full e-commerce database built from scratch with ERD, sample data, and 20+ queries written in MySQL, PostgreSQL, Oracle PL/SQL, and MongoDB. Covers JOINs, CTEs, window functions, stored procedures, triggers, packages, JSONB, and full-text search.
 
 ---
@@ -132,7 +132,7 @@ My projects are organized around four IT career paths. Click any to explore:
 
 ## 📬 Let's Connect
 
-I'm open to junior roles and opportunities in **IT Support, Database Administration, IAM, and Data Analytics**. Feel free to reach out!
+I'm open to roles and opportunities in **IT Support, Database Administration, IAM, and Data Analytics**. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunanda-thompson-5242aa177)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunanda.thompson@gmail.com)
