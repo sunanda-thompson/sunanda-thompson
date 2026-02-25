@@ -132,7 +132,7 @@ My projects are organized around four IT career paths. Click any to explore:
 
 ## 📬 Let's Connect
 
-I'm open to roles and opportunities in **IT Support, Database Administration, IAM, and Data Analytics**. Feel free to reach out!
+I'm open to roles and opportunities in **IT Support, IAM, or Database Administration**. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunanda-thompson-5242aa177)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=sunanda.thompson@gmail.com)
