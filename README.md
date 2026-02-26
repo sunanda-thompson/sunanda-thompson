@@ -18,7 +18,7 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a versatile IT professional with a Master's in **Information Security & Digital Forensics** and hands-on experience across cybersecurity, technical support, web development, and database systems. I'm building my GitHub as a portfolio of real, practical projects spanning the IT areas I worked in and care about most.
+I'm a versatile IT professional with a Master's in **Information Security & Digital Forensics** and hands-on experience across cybersecurity, technical support, web development, database systems, and data analytics. I'm building my GitHub as a portfolio of real, practical projects spanning the IT areas I worked in and care about most.
 
 - 🔐 Working towards leveling up my **IT Skills**
 - 🗄️ Building side projects to land a **job**!
@@ -132,7 +132,7 @@ My projects are organized around four IT career paths. Click any to explore:
 
 ## 📬 Let's Connect
 
-I'm open to roles and opportunities in **IT Support, IAM, or Database Administration**. Feel free to reach out!
+I'm open to roles and opportunities in **IT Support, IAM, Database Administration or Data Analytics**. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunanda-thompson-5242aa177)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=sunanda.thompson@gmail.com)
