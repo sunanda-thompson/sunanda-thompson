@@ -39,6 +39,7 @@ My projects are organized around four IT career paths. Click any to explore:
 | 🔐 **IAM & Cybersecurity** | Access control demos, Active Directory concepts, RBAC models, security policy docs |
 | 📊 **Data Analytics** | Python & SQL analysis, Excel dashboards, Tableau & Power BI visualizations |
 | 🖥️ **IT Support & Scripting** | PowerShell & Bash automation scripts, help desk workflows, troubleshooting guides |
+| 🖥️ **QA Analyst** | Case Studies, Manual Testing Workflow & Template, Cycle of Releasing Software |
 
 ---
 
