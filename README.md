@@ -2,9 +2,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=sunanda-thompson&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-# Hi, I'm Sunanda Thompson 👋
+# Hi, I'm Sunanda 👋
 
-### IT Professional · Cybersecurity · Data · Identity & Access Management
+### Aspiring Data Analyst · SQL · Excel · Tableau
 
 *MS Information Security & Digital Forensics · ISC² Certified in Cybersecurity*
 
@@ -18,32 +18,64 @@
 
 ## 👩🏽‍💻 About Me
 
-I'm a versatile IT professional with a Master's in **Information Security & Digital Forensics** and hands-on experience across cybersecurity, technical support, web development, database systems, and data analytics. I'm building my GitHub as a portfolio of real, practical projects spanning the IT areas I worked in and care about most.
+I'm an IT professional transitioning into **Data Analytics**, with a Master's in Information Security & Digital Forensics and hands-on experience across database systems, cybersecurity, and technical support. I'm actively building my analytics skill set through real projects that cover the full data workflow from raw data in SQL to visualizations in Tableau.
 
-- 🔐 Working towards leveling up my **IT Skills**
-- 🗄️ Building side projects to land a **job**!
+- 📊 Actively studying and building projects in **Data Analytics** (SQL · Excel · Tableau)
+- 🗄️ Strong foundation in **relational databases** — MySQL, PostgreSQL, Oracle, MongoDB
 - 🛡️ ISC² **Certified in Cybersecurity (CC)** — 2025
 - 📍 Based in **Texas**
-- ⚡ Outside of tech: ANIME, fantasy romance books, Chinese & Korean dramas
+- 🎯 Currently open to: **Data Analyst, Junior Analyst, and BI Analyst roles**
+- ⚡ Outside of tech: anime, fantasy romance books, Chinese & Korean dramas
 - 🏆 Motto: **Make every day count!**
 
 ---
 
-## 🗂️ Portfolio Areas
+## 📊 Data Analytics Toolkit
 
-My projects are organized around four IT career paths. Click any to explore:
+> The tools and skills I'm actively using and building projects with.
 
-| Area | What You'll Find |
-|---|---|
-| 🗄️ **Database Administration** | SQL schema design, queries in MySQL · PostgreSQL · Oracle PL/SQL · MongoDB |
-| 🔐 **IAM & Cybersecurity** | Access control demos, Active Directory concepts, RBAC models, security policy docs |
-| 📊 **Data Analytics** | Python & SQL analysis, Excel dashboards, Tableau & Power BI visualizations |
-| 🖥️ **IT Support & Scripting** | PowerShell & Bash automation scripts, help desk workflows, troubleshooting guides |
-| 🔎 **QA Analyst** | Case Studies, Manual Testing Workflow & Template, Cycle of Releasing Software |
+**Core Skills**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**What I can do with data:**
+- Write complex SQL queries — JOINs, CTEs, window functions, stored procedures
+- Clean and analyze datasets in Excel (VLOOKUP, XLOOKUP, pivot tables, charts)
+- Build business dashboards in Tableau using real-world datasets
+- Explore and clean data using Python and Pandas
 
 ---
 
-## 🛠️ Technical Skills
+## 📂 Featured Projects
+
+### 📊 Data Analytics Self-Study
+**[Self-Study Repository](https://github.com/sunanda-thompson/Data-Analytics/tree/main/Self-Study)**
+> Structured notes and working scripts from my data analytics learning journey. Covers Excel formulas & lookups, PostgreSQL and MySQL from beginner to advanced (CTEs, window functions, stored procedures, triggers), and a Tableau dashboard-building framework. Includes a side-by-side SQL cheat sheet for quick reference.
+
+`SQL` `PostgreSQL` `MySQL` `Excel` `Tableau`
+
+---
+
+## 🗂️ Other Areas I've Built In
+
+My background spans multiple areas of IT. Explore the repositories below:
+
+| Area | Description |
+|---|---|
+| 🔐 **IAM & Cybersecurity** | Access control demos, Active Directory concepts, RBAC models, security policy docs |
+| 🖥️ **IT Support & Scripting** | PowerShell & Bash automation scripts, help desk workflows, troubleshooting guides |
+| 🔎 **QA Analyst** | Case studies, manual testing workflows & templates, software release cycle |
+
+---
+
+## 🛠️ Full Technical Skill Set
 
 **Languages & Databases**
 
@@ -77,13 +109,6 @@ My projects are organized around four IT career paths. Click any to explore:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-**Analytics & BI**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
 ---
 
 ## 🏅 Certifications
@@ -91,18 +116,10 @@ My projects are organized around four IT career paths. Click any to explore:
 | Certification | Issuer | Year |
 |---|---|---|
 | ✅ Certified in Cybersecurity (CC) | ISC² | 2025 |
-| ✅ Oracle SQL & PL/SQL Developer Certificate | Arizona Western College | 2023 |
+| ✅ Data Analytics Bootcamp — SQL, Excel, Tableau, Python, Power BI | Alex the Analyst | 2025 |
 | ✅ Professional Certificate — Business & Data Analysis | EdX | 2025 |
-| ✅ Data Analytics Bootcamp (SQL, Excel, Tableau, Python, Power BI) | Alex the Analyst | 2025 |
 | ✅ Applied Scrum for Agile Project Management | EdX | 2025 |
-
----
-
-## 📂 Featured Projects
-
-### 🗄️ Database
-**[ShopVerse SQL Portfolio] (https://sunanda-thompson.github.io/database-portfolio/database-portfolio.html)**
-> A full e-commerce database built from scratch with ERD, sample data, and 20+ queries written in MySQL, PostgreSQL, Oracle PL/SQL, and MongoDB. Covers JOINs, CTEs, window functions, stored procedures, triggers, packages, JSONB, and full-text search.
+| ✅ Oracle SQL & PL/SQL Developer Certificate | Arizona Western College | 2023 |
 
 ---
 
@@ -133,7 +150,7 @@ My projects are organized around four IT career paths. Click any to explore:
 
 ## 📬 Let's Connect
 
-I'm open to roles and opportunities in **IT Support, IAM, Database Administration or Data Analytics**. Feel free to reach out!
+I'm actively looking for opportunities in **Data Analytics**. If you're hiring or just want to connect, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunanda-thompson-5242aa177)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=sunanda.thompson@gmail.com)
