@@ -24,7 +24,7 @@ I'm a versatile IT professional with a Master's in **Information Security & Digi
 - 🗄️ Building side projects to land a **job**!
 - 🛡️ ISC² **Certified in Cybersecurity (CC)** — 2025
 - 📍 Based in **Texas**
-- ⚡ Outside of tech: fantasy romance books, Chinese & Korean dramas
+- ⚡ Outside of tech: ANIME, fantasy romance books, Chinese & Korean dramas
 - 🏆 Motto: **Make every day count!**
 
 ---
