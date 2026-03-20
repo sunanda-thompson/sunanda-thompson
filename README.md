@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sunanda-thompson-5242aa177)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=sunanda.thompson@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sunanda-thompson)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-1e3a6e?style=for-the-badge&logo=githubpages&logoColor=white)](https://sunanda-thompson.github.io/sunanda-thompson/resume-portfolio.html)
 </div>
 
 ---
@@ -27,6 +27,7 @@ I'm an IT professional transitioning into **Data Analytics**, with a Master's in
 - 🎯 Currently open to: **Data Analyst, Junior Analyst, and BI Analyst roles**
 - ⚡ Outside of tech: anime, fantasy romance books, Chinese & Korean dramas
 - 🏆 Motto: **Make every day count!**
+- 🌐 **Portfolio:** [sunanda-thompson.github.io/sunanda-thompson/resume-portfolio.html](https://sunanda-thompson.github.io/sunanda-thompson/resume-portfolio.html)
 
 ---
 
