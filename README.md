@@ -27,7 +27,7 @@ I'm an IT professional transitioning into **Data Analytics**, with a Master's in
 - 🎯 Currently open to: **Data Analyst, Junior Analyst, and BI Analyst roles**
 - ⚡ Outside of tech: anime, fantasy romance books, Chinese & Korean dramas
 - 🏆 Motto: **Make every day count!**
-- 🌐 **Portfolio:** [sunanda-thompson.github.io/sunanda-thompson/resume-portfolio.html](https://sunanda-thompson.github.io/sunanda-thompson/resume-portfolio.html)
+- 🌐 **Resume Portfolio:** [sunanda-thompson.github.io/sunanda-thompson/resume-portfolio.html](https://sunanda-thompson.github.io/sunanda-thompson/resume-portfolio.html)
 
 ---
 
