@@ -21,8 +21,8 @@
 I'm an IT professional transitioning into **Data Analytics**, with a Master's in Information Security & Digital Forensics and hands-on experience across database systems, cybersecurity, and technical support. I'm actively building my analytics skill set through real projects that cover the full data workflow from raw data in SQL to visualizations in Tableau.
 
 - 📊 Actively studying and building projects in **Data Analytics** (SQL · Excel · Tableau)
-- 🗄️ Strong foundation in **relational databases** — MySQL, PostgreSQL, Oracle, MongoDB
-- 🛡️ ISC² **Certified in Cybersecurity (CC)** — 2025
+- 🗄️ Strong foundation in **relational databases** - MySQL, PostgreSQL, Oracle, MongoDB
+- 🛡️ ISC² **Certified in Cybersecurity (CC)** - 2025
 - 📍 Based in **Texas**
 - 🎯 Currently open to: **Data Analyst, Junior Analyst, and BI Analyst roles**
 - ⚡ Outside of tech: anime, fantasy romance books, Chinese & Korean dramas
@@ -47,7 +47,7 @@ I'm an IT professional transitioning into **Data Analytics**, with a Master's in
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 **What I can do with data:**
-- Write complex SQL queries — JOINs, CTEs, window functions, stored procedures
+- Write complex SQL queries - JOINs, CTEs, window functions, stored procedures
 - Clean and analyze datasets in Excel (VLOOKUP, XLOOKUP, pivot tables, charts)
 - Build business dashboards in Tableau using real-world datasets
 - Explore and clean data using Python and Pandas
@@ -117,8 +117,8 @@ My background spans multiple areas of IT. Explore the repositories below:
 | Certification | Issuer | Year |
 |---|---|---|
 | ✅ Certified in Cybersecurity (CC) | ISC² | 2025 |
-| ✅ Data Analytics Bootcamp — SQL, Excel, Tableau, Python, Power BI | Alex the Analyst | 2025 |
-| ✅ Professional Certificate — Business & Data Analysis | EdX | 2025 |
+| ✅ Data Analytics Bootcamp - SQL, Excel, Tableau, Python, Power BI | Alex the Analyst | 2025 |
+| ✅ Professional Certificate - Business & Data Analysis | EdX | 2025 |
 | ✅ Applied Scrum for Agile Project Management | EdX | 2025 |
 | ✅ Oracle SQL & PL/SQL Developer Certificate | Arizona Western College | 2023 |
 
@@ -141,10 +141,10 @@ My background spans multiple areas of IT. Explore the repositories below:
 
 ## 🎓 Education
 
-**M.S. Information Security & Digital Forensics** — Niagara University *(2019–2021)*
+**M.S. Information Security & Digital Forensics** - Niagara University *(2019-2021)*
 > Thesis: *Ransomware: Analysis, Impact, and Recommendations*
 
-**B.S. Computer Science** — Huntington University *(2015–2019)*
+**B.S. Computer Science** - Huntington University *(2015-2019)*
 > Minors: Criminal Justice & Cybersecurity
 
 ---
@@ -159,5 +159,5 @@ I'm actively looking for opportunities in **Data Analytics**. If you're hiring o
 ---
 
 <div align="center">
-<sub>💡 This profile is a living document — updated as I build, learn, and grow.</sub>
+<sub>💡 This profile is a living document updated as I build, learn, and grow.</sub>
 </div>
